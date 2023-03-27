@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9931db7-9b5a-471b-b3f8-8c45c356f057" name="Changes" comment="">
+    <list default="true" id="c9931db7-9b5a-471b-b3f8-8c45c356f057" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TugasStokBarang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TugasStokBarang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConnectUri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConnectUri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TM01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TM01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/daftarbarang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/daftarbarang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fromdata.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/fromdata.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fromdata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fromdata.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +75,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679525842062</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1679910411589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679910411589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,5 +95,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
